@@ -1,13 +1,13 @@
 ﻿CruxDigital
 ===========
 
-CruxDigital is an extension for Spree Commerce. It is mandatory that Spree has to be installed in the system
+CruxDigital is an extension for Spree Commerce. It is mandatory that Spree and Crux has to be installed in the system
 to add this extension. CruxDigital enables downloadable products. The users can attach a file to a product and when users
 buy they will receive a link via email where they can download it from the url
 
 Installation
 ===========
-It is mandatory that Spree has to be installed prior to the inclusion of the Extension.
+It is mandatory that Spree and Crux has to be installed prior to the inclusion of the Extension.
 
 Start by adding the gem to your existing Rails 3.x application's Gemfile
 
